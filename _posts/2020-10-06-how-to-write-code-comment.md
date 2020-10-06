@@ -47,5 +47,5 @@ tags:
 
 ## 参考
 
-https://bbs.huaweicloud.com/blogs/176194  
-http://lanlingzi.cn/post/technical/2019/0609_comment/
+[合理有效的注释](https://bbs.huaweicloud.com/blogs/176194)  
+[如何写出优秀的代码注释？](http://lanlingzi.cn/post/technical/2019/0609_comment/)
